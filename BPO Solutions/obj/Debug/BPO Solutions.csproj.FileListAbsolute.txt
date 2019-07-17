@@ -1,0 +1,113 @@
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\roslyn\csc.exe
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\roslyn\System.Collections.Immutable.dll
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\roslyn\vbc.exe
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\roslyn\VBCSCompiler.exe
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\roslyn\VBCSCompiler.exe.config
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\BPO Solutions.dll.config
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\BPO Solutions.dll
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\BPO Solutions.pdb
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\EntityFramework.dll
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\EntityFramework.SqlServer.dll
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\Microsoft.Web.Infrastructure.dll
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\System.Web.Helpers.dll
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\System.Web.Mvc.dll
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\System.Web.Razor.dll
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\System.Web.Webpages.Deployment.dll
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\System.Web.Webpages.dll
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\System.Web.Webpages.Razor.dll
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\EntityFramework.xml
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\EntityFramework.SqlServer.xml
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\System.Web.Razor.xml
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\System.Web.Webpages.xml
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\System.Web.Webpages.Deployment.xml
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\System.Web.Webpages.Razor.xml
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\System.Web.Helpers.xml
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\bin\System.Web.Mvc.xml
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\obj\Debug\BPO Solutions.csprojResolveAssemblyReference.cache
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\obj\Debug\BPO Solutions.dll
+c:\users\muhammad ali\documents\visual studio 2015\Projects\BPO Solutions\BPO Solutions\obj\Debug\BPO Solutions.pdb
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\obj\Debug\BPO Solutions.csprojAssemblyReference.cache
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\obj\Debug\BPO Solutions.csproj.CoreCompileInputs.cache
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\obj\Debug\BPO Solutions.dll
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\obj\Debug\BPO Solutions.pdb
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\roslyn\csc.exe
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\roslyn\vbc.exe
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\BPO Solutions.dll.config
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\BPO Solutions.dll
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\BPO Solutions.pdb
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\EntityFramework.dll
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\EntityFramework.SqlServer.dll
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\System.Web.Helpers.dll
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\System.Web.Mvc.dll
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\System.Web.Razor.dll
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\System.Web.Webpages.dll
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\EntityFramework.xml
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\EntityFramework.SqlServer.xml
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\System.Web.Razor.xml
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\System.Web.Webpages.xml
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\System.Web.Helpers.xml
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\bin\System.Web.Mvc.xml
+C:\Users\Ahsan Ismail\Desktop\BPO Solutions\BPO Solutions\obj\Debug\BPO Solutions.csproj.CopyComplete
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\roslyn\csc.exe
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\roslyn\vbc.exe
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\roslyn\VBCSCompiler.exe
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\BPO Solutions.dll.config
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\BPO Solutions.dll
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\BPO Solutions.pdb
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\EntityFramework.dll
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\EntityFramework.SqlServer.dll
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\System.Web.Helpers.dll
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\System.Web.Mvc.dll
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\System.Web.Razor.dll
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\System.Web.Webpages.dll
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\System.Web.Webpages.Razor.dll
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\EntityFramework.xml
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\EntityFramework.SqlServer.xml
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\System.Web.Razor.xml
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\System.Web.Webpages.xml
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\System.Web.Webpages.Razor.xml
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\System.Web.Helpers.xml
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\bin\System.Web.Mvc.xml
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\obj\Debug\BPO Solutions.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\obj\Debug\BPO Solutions.dll
+C:\Users\Muhammad Ali\Desktop\BPO Solutions\BPO Solutions\obj\Debug\BPO Solutions.pdb
